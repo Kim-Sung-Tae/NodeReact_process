@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Kim-Sung-Tae/NodeReact_process/issues"
   },
-  "homepage": "https://github.com/Kim-Sung-Tae/NodeReact_process#readme"
+  "homepage": "https://github.com/Kim-Sung-Tae/NodeReact_process#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
